@@ -1,0 +1,20 @@
+{
+  "label2idx": {
+    "EXTERNAL": 0,
+    "FINANCIAL": 1,
+    "FISCAL": 2,
+    "GOVERNANCE": 3,
+    "LABOUR": 4,
+    "PRIVATISATION": 5,
+    "SOCIAL": 6
+  },
+  "idx2label": {
+    "0": "EXTERNAL",
+    "1": "FINANCIAL",
+    "2": "FISCAL",
+    "3": "GOVERNANCE",
+    "4": "LABOUR",
+    "5": "PRIVATISATION",
+    "6": "SOCIAL"
+  }
+}

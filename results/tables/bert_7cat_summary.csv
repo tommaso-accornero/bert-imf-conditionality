@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,epochs,lr,max_length,batch_size,seed
+BERT 7-cat,0.948,0.9177,4,3e-05,128,32,42

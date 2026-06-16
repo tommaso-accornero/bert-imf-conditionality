@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # Accept Terms and Conditions: Machine Learning Evidence of IMF Mission Creep, 1980-2024
 
@@ -41,22 +36,39 @@ baseline of 0.774.
 
 ## Repository Structure
 
-bert-imf-conditionality/ ├── R/ R scripts: data preparation, regression,
-figures │ ├── 01_data_preparation.R │ ├── 02_category_mapping.R │ ├──
-03_exploratory_analysis.R │ ├── 03b_build_controls.R │ ├──
-04_mission_creep_analysis.R │ ├── 05_model_comparison_table.R │ ├──
-06_bert_pipeline_diagram.R │ ├── 07_country_coverage_map.R │ ├──
-08_model_fit_diagnostics.R │ └── utils/ │ └── plotting_theme.R ├──
-python/ Python scripts: BERT classification pipeline │ ├──
-01_preprocess_for_bert.py │ ├── 02_baseline_models.py │ ├──
-03_train_bert_13cat.py │ ├── 04_train_bert_7cat.py │ ├──
-05_predict_mona.py │ ├── 06_evaluate_temporal.py │ └──
-06b_seam_validation.py ├── results/ │ ├── figures/ All figures (PNG, 300
-dpi) │ ├── tables/ Regression outputs and summaries (CSV) │ ├──
-validation/ Seam validation and manual coding results │ └── diagnostics/
-VIF, ceiling pressure, model fit diagnostics ├── data/ Not committed;
-see Data section below ├── models/ Not committed; see Models section
-below ├── requirements.txt ├── LICENSE └── README.md
+```
+bert-imf-conditionality/
+├── R/
+│   ├── 01_data_preparation.R
+│   ├── 02_category_mapping.R
+│   ├── 03_exploratory_analysis.R
+│   ├── 03b_build_controls.R
+│   ├── 04_mission_creep_analysis.R
+│   ├── 05_model_comparison_table.R
+│   ├── 06_bert_pipeline_diagram.R
+│   ├── 07_country_coverage_map.R
+│   ├── 08_model_fit_diagnostics.R
+│   └── utils/
+│       └── plotting_theme.R
+├── python/
+│   ├── 01_preprocess_for_bert.py
+│   ├── 02_baseline_models.py
+│   ├── 03_train_bert_13cat.py
+│   ├── 04_train_bert_7cat.py
+│   ├── 05_predict_mona.py
+│   ├── 06_evaluate_temporal.py
+│   └── 06b_seam_validation.py
+├── results/
+│   ├── figures/
+│   ├── tables/
+│   ├── validation/
+│   └── diagnostics/
+├── data/
+├── models/
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
 
 ## Data
 

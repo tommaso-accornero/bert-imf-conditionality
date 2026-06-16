@@ -1,0 +1,6 @@
+Seam Validation: IMF Monitor 2015-2019
+Program-years compared: 207
+Exact match: 91.3%
+Within 1 policy area: 99.0%
+MAE: 0.097
+Bias (BERT - hand-coded): 0.077

@@ -1,0 +1,208 @@
+country,arrangement_id,year,n_conditions_hand,n_policy_areas_hand,n_policy_areas_bert,mean_confidence,scope_diff,scope_abs_diff,exact_match,within_1
+Afghanistan,PR/16/348,2016,17,7,7,0.97489965,0,0,True,True
+Afghanistan,PR/16/348,2017,28,7,7,0.9792055,0,0,True,True
+Afghanistan,PR/16/348,2018,26,8,8,0.97478235,0,0,True,True
+Afghanistan,PR/16/348,2019,24,7,7,0.97965264,0,0,True,True
+Albania,EBM/14/19,2015,27,6,7,0.9680919,1,1,False,True
+Albania,EBM/14/19,2016,35,7,7,0.99512404,0,0,True,True
+Albania,EBM/14/19,2017,5,2,2,0.9911372,0,0,True,True
+Angola,PR/18/463*,2018,13,5,5,0.9927397,0,0,True,True
+Angola,PR/18/463*,2019,28,9,9,0.9909216,0,0,True,True
+Argentina,PR/18/245*,2018,21,6,6,0.99545234,0,0,True,True
+Argentina,PR/18/245*,2019,17,6,6,0.9972717,0,0,True,True
+Armenia,EBM/14/21,2015,19,7,7,0.99684525,0,0,True,True
+Armenia,EBM/14/21,2016,23,9,9,0.9873256,0,0,True,True
+Armenia,EBM/14/21,2017,10,5,5,0.9963719,0,0,True,True
+Armenia,PR/19/173*,2019,18,9,9,0.99693555,0,0,True,True
+Bangladesh,EBM/12/37,2015,8,3,3,0.9980379,0,0,True,True
+Barbados,PR/18/370*,2018,16,8,8,0.9926693,0,0,True,True
+Barbados,PR/18/370*,2019,20,9,9,0.99507487,0,0,True,True
+Benin,PR/17/124*,2017,23,7,7,0.99572057,0,0,True,True
+Benin,PR/17/124*,2018,21,7,7,0.994596,0,0,True,True
+Benin,PR/17/124*,2019,15,7,7,0.9960772,0,0,True,True
+Bosnia and Herzegovina,PR/16/396*,2016,45,8,8,0.9852837,0,0,True,True
+Bosnia and Herzegovina,PR/16/396*,2017,32,7,7,0.9979566,0,0,True,True
+Bosnia and Herzegovina,PR/16/396*,2018,37,7,7,0.9839732,0,0,True,True
+Bosnia and Herzegovina,PR/16/396*,2019,2,2,2,0.9977907,0,0,True,True
+Burkina Faso,EBM/14/1,2015,17,7,7,0.9869139,0,0,True,True
+Burkina Faso,EBM/14/1,2016,28,7,7,0.97360647,0,0,True,True
+Burkina Faso,EBM/14/1,2017,1,1,1,0.9981937,0,0,True,True
+Burkina Faso,PR/18/86*,2018,26,8,8,0.95650643,0,0,True,True
+Burkina Faso,PR/18/86*,2019,34,8,8,0.9780682,0,0,True,True
+Burundi,EBM/12/10,2015,19,7,7,0.99487585,0,0,True,True
+Cameroon,PR/17/248*,2017,29,6,6,0.984078,0,0,True,True
+Cameroon,PR/17/248*,2018,41,6,6,0.9646212,0,0,True,True
+Cameroon,PR/17/248*,2019,31,7,7,0.94492644,0,0,True,True
+Central African Republic,PR/15/417,2015,3,2,2,0.9953265,0,0,True,True
+Central African Republic,PR/16/352,2016,14,8,8,0.97891766,0,0,True,True
+Central African Republic,PR/16/352,2017,23,6,6,0.9742682,0,0,True,True
+Central African Republic,PR/16/352,2018,20,7,8,0.9911873,1,1,False,True
+Central African Republic,PR/16/352,2019,10,6,6,0.955197,0,0,True,True
+Central African Republic,PR/19/484*,2019,10,5,5,0.9982788,0,0,True,True
+Chad,EBM/14/77,2015,11,5,5,0.99022216,0,0,True,True
+Chad,EBM/14/77,2016,14,6,6,0.99693966,0,0,True,True
+Chad,EBM/14/77,2017,8,5,5,0.99212277,0,0,True,True
+Chad,PR/17/257*,2017,17,7,7,0.99731016,0,0,True,True
+Chad,PR/17/257*,2018,21,7,7,0.99721056,0,0,True,True
+Chad,PR/17/257*,2019,22,6,6,0.99769187,0,0,True,True
+"Congo, Dem. Rep.",PR/19/465,2019,1,1,1,0.99686664,0,0,True,True
+"Congo, Rep.",PR/19/274*,2017,1,1,1,0.998309,0,0,True,True
+"Congo, Rep.",PR/19/274*,2018,2,2,2,0.996856,0,0,True,True
+"Congo, Rep.",PR/19/274*,2019,20,9,9,0.9686411,0,0,True,True
+Cote d'Ivoire,EBM/11/106,2015,19,6,6,0.96799237,0,0,True,True
+Cote d'Ivoire,PR/16/554*,2016,12,5,5,0.99795276,0,0,True,True
+Cote d'Ivoire,PR/16/554*,2017,24,8,8,0.98212487,0,0,True,True
+Cote d'Ivoire,PR/16/554*,2018,21,7,7,0.9842609,0,0,True,True
+Cote d'Ivoire,PR/16/554*,2019,19,6,6,0.99524325,0,0,True,True
+Cyprus,EBM/13/45,2015,18,6,6,0.9967466,0,0,True,True
+Cyprus,EBM/13/45,2016,4,4,4,0.99658096,0,0,True,True
+Ecuador,PR/19/72*,2019,24,9,9,0.99623185,0,0,True,True
+Egypt,PR/16/501,2016,11,6,6,0.99770933,0,0,True,True
+Egypt,PR/16/501,2017,30,8,9,0.96275866,1,1,False,True
+Egypt,PR/16/501,2018,26,10,11,0.97470623,1,1,False,True
+Egypt,PR/16/501,2019,26,10,10,0.9934509,0,0,True,True
+Equatorial Guinea,PR/19/472,2019,15,6,8,0.94599223,2,2,False,False
+Ethiopia,PR/19/486,2019,12,5,5,0.9977427,0,0,True,True
+Gabon,PR/17/233*,2017,18,6,6,0.985463,0,0,True,True
+Gabon,PR/17/233*,2018,33,7,6,0.9853436,-1,1,False,True
+Gabon,PR/17/233*,2019,24,8,8,0.9533458,0,0,True,True
+Georgia,EBM/14/76,2015,16,6,6,0.99033,0,0,True,True
+Georgia,PR/17/130*,2017,24,7,7,0.9969407,0,0,True,True
+Georgia,PR/17/130*,2018,19,7,7,0.9927192,0,0,True,True
+Georgia,PR/17/130*,2019,22,8,8,0.99570274,0,0,True,True
+Ghana,EBM/15/34,2015,34,8,8,0.9909373,0,0,True,True
+Ghana,EBM/15/34,2016,31,9,10,0.97804534,1,1,False,True
+Ghana,EBM/15/34,2017,43,8,8,0.98859954,0,0,True,True
+Ghana,EBM/15/34,2018,28,9,9,0.98359555,0,0,True,True
+Ghana,EBM/15/34,2019,7,5,5,0.9927271,0,0,True,True
+Greece,EBM/12/25,2015,8,3,3,0.997668,0,0,True,True
+Grenada,EBM/14/59,2015,23,5,5,0.99367166,0,0,True,True
+Grenada,EBM/14/59,2016,20,6,6,0.9963535,0,0,True,True
+Grenada,EBM/14/59,2017,5,2,3,0.8774935,1,1,False,True
+Guinea,EBM/12/19,2015,15,8,8,0.99546266,0,0,True,True
+Guinea,EBM/12/19,2016,17,8,8,0.99509114,0,0,True,True
+Guinea,PR/17/484*,2017,13,7,7,0.9966371,0,0,True,True
+Guinea,PR/17/484*,2018,33,9,9,0.99409544,0,0,True,True
+Guinea,PR/17/484*,2019,22,8,8,0.9829641,0,0,True,True
+Guinea-Bissau,EBM/15/69,2015,18,7,7,0.99562603,0,0,True,True
+Guinea-Bissau,EBM/15/69,2016,18,7,7,0.98359627,0,0,True,True
+Guinea-Bissau,EBM/15/69,2017,20,7,7,0.99130183,0,0,True,True
+Guinea-Bissau,EBM/15/69,2018,18,6,6,0.9977845,0,0,True,True
+Haiti,EBM/15/50,2015,20,7,7,0.99673545,0,0,True,True
+Haiti,EBM/15/50,2016,12,8,8,0.9981468,0,0,True,True
+Honduras,EBM/14/106,2015,21,8,8,0.99710536,0,0,True,True
+Honduras,EBM/14/106,2016,27,9,9,0.9856163,0,0,True,True
+Honduras,EBM/14/106,2017,16,8,8,0.9975262,0,0,True,True
+Honduras,PR/19/284*,2019,25,9,9,0.97041893,0,0,True,True
+Iraq,EBM/15/78,2015,1,1,1,0.9975394,0,0,True,True
+Iraq,PR/16/321,2016,19,7,7,0.98449826,0,0,True,True
+Iraq,PR/16/321,2017,31,8,8,0.9877011,0,0,True,True
+Iraq,PR/16/321,2018,11,6,6,0.9967439,0,0,True,True
+Jamaica,EBM/13/39,2015,29,9,9,0.9968758,0,0,True,True
+Jamaica,EBM/13/39,2016,23,9,9,0.993575,0,0,True,True
+Jamaica,EBM/13/39,2017,1,1,1,0.35746092,0,0,True,True
+Jamaica,PR/16/503,2016,13,6,6,0.99692035,0,0,True,True
+Jamaica,PR/16/503,2017,32,9,10,0.9935723,1,1,False,True
+Jamaica,PR/16/503,2018,13,7,7,0.9975945,0,0,True,True
+Jamaica,PR/16/503,2019,12,6,6,0.9976086,0,0,True,True
+Jordan,EBM/12/81,2015,12,5,5,0.97917336,0,0,True,True
+Jordan,PR/16/381*,2016,28,8,8,0.99550694,0,0,True,True
+Jordan,PR/16/381*,2017,29,8,8,0.9929741,0,0,True,True
+Jordan,PR/16/381*,2018,17,8,8,0.99748015,0,0,True,True
+Jordan,PR/16/381*,2019,28,9,9,0.99419844,0,0,True,True
+Kenya,EBM/15/11,2015,19,6,6,0.9580058,0,0,True,True
+Kenya,PR/16/110,2016,16,7,7,0.989732,0,0,True,True
+Kenya,PR/16/110,2017,16,6,6,0.9841489,0,0,True,True
+Kosovo,EBM/15/78,2015,9,3,4,0.9619874,1,1,False,True
+Kosovo,EBM/15/78,2016,17,5,5,0.9857366,0,0,True,True
+Kosovo,EBM/15/78,2017,9,4,4,0.9946353,0,0,True,True
+Kyrgyz Republic,EBM/15/36,2015,21,7,7,0.99284416,0,0,True,True
+Kyrgyz Republic,EBM/15/36,2016,27,9,9,0.95883775,0,0,True,True
+Kyrgyz Republic,EBM/15/36,2017,24,8,8,0.98960876,0,0,True,True
+Kyrgyz Republic,EBM/15/36,2018,24,10,10,0.9879959,0,0,True,True
+Liberia,EBM/12/106,2015,11,6,6,0.99765116,0,0,True,True
+Liberia,EBM/12/106,2016,26,7,7,0.98544604,0,0,True,True
+Liberia,EBM/12/106,2017,18,7,7,0.9951744,0,0,True,True
+Liberia,EBM/12/106,2018,1,1,1,0.99686396,0,0,True,True
+Liberia,PR/19/451*,2019,24,7,7,0.9968768,0,0,True,True
+Madagascar,PR/15/528,2015,1,1,1,0.9980698,0,0,True,True
+Madagascar,PR/16/370,2016,18,8,8,0.99526376,0,0,True,True
+Madagascar,PR/16/370,2017,27,10,9,0.99381685,-1,1,False,True
+Madagascar,PR/16/370,2018,19,8,8,0.9944473,0,0,True,True
+Madagascar,PR/16/370,2019,18,8,8,0.99358857,0,0,True,True
+Malawi,EBM/12/75,2015,27,6,7,0.9686856,1,1,False,True
+Malawi,EBM/12/75,2016,16,6,7,0.97052884,1,1,False,True
+Malawi,EBM/12/75,2017,5,2,2,0.9819683,0,0,True,True
+Malawi,PR/18/157*,2018,32,6,6,0.95370895,0,0,True,True
+Malawi,PR/18/157*,2019,30,6,7,0.94596887,1,1,False,True
+Mali,EBM/13/116,2015,14,6,6,0.99683017,0,0,True,True
+Mali,EBM/13/116,2016,15,7,7,0.9950972,0,0,True,True
+Mali,EBM/13/116,2017,13,5,5,0.99736243,0,0,True,True
+Mali,EBM/13/116,2018,19,8,8,0.97439444,0,0,True,True
+Mali,PR/19/319*,2019,17,6,7,0.9943169,1,1,False,True
+Mauritania,PR/17/468*,2017,12,5,5,0.9973152,0,0,True,True
+Mauritania,PR/17/468*,2018,27,6,6,0.9848769,0,0,True,True
+Mauritania,PR/17/468*,2019,22,7,7,0.9948337,0,0,True,True
+Moldova,PR/16/491,2016,28,7,7,0.99663407,0,0,True,True
+Moldova,PR/16/491,2017,38,7,9,0.982796,2,2,False,False
+Moldova,PR/16/491,2018,23,8,8,0.9869148,0,0,True,True
+Moldova,PR/16/491,2019,22,8,8,0.9973743,0,0,True,True
+Mongolia,PR/17/193*,2017,26,6,6,0.99728197,0,0,True,True
+Mongolia,PR/17/193*,2018,35,7,8,0.99182683,1,1,False,True
+Mongolia,PR/17/193*,2019,18,8,8,0.9693115,0,0,True,True
+Morocco,EBM/14/74,2015,2,2,2,0.9985318,0,0,True,True
+Morocco,PR/16/355,2016,2,2,2,0.9985318,0,0,True,True
+Morocco,PR/16/355,2017,2,2,2,0.9985318,0,0,True,True
+Morocco,PR/18/477*,2019,2,2,2,0.9985318,0,0,True,True
+Mozambique,PR/15/580,2015,10,5,5,0.98923856,0,0,True,True
+Mozambique,PR/15/580,2016,13,6,6,0.9959952,0,0,True,True
+Niger,EBM/12/26,2015,16,6,6,0.99145687,0,0,True,True
+Niger,EBM/12/26,2016,20,6,6,0.99406767,0,0,True,True
+Niger,PR/17/18*,2017,24,7,7,0.96609783,0,0,True,True
+Niger,PR/17/18*,2018,30,6,6,0.9941892,0,0,True,True
+Niger,PR/17/18*,2019,27,7,7,0.9876835,0,0,True,True
+Pakistan,EBM/13/82,2015,39,9,9,0.9844615,0,0,True,True
+Pakistan,EBM/13/82,2016,32,9,9,0.9759178,0,0,True,True
+Pakistan,PR/19/264*,2019,28,8,8,0.982243,0,0,True,True
+Romania,EBM/13/93,2015,1,1,1,0.9982468,0,0,True,True
+Rwanda,PR/16/270,2016,20,6,6,0.9804524,0,0,True,True
+Rwanda,PR/16/270,2017,19,6,6,0.99768335,0,0,True,True
+Rwanda,PR/16/270,2018,14,6,6,0.9978815,0,0,True,True
+Sao Tome and Principe,EBM/15/70,2015,14,8,8,0.99808675,0,0,True,True
+Sao Tome and Principe,EBM/15/70,2016,19,7,7,0.9961587,0,0,True,True
+Sao Tome and Principe,EBM/15/70,2017,14,8,8,0.99737465,0,0,True,True
+Sao Tome and Principe,EBM/15/70,2018,17,8,8,0.9979552,0,0,True,True
+Sao Tome and Principe,PR/19/363*,2019,18,7,7,0.99778295,0,0,True,True
+Serbia,EBM/15/19,2015,41,9,9,0.9830389,0,0,True,True
+Serbia,EBM/15/19,2016,28,9,9,0.98946714,0,0,True,True
+Serbia,EBM/15/19,2017,26,10,10,0.97048753,0,0,True,True
+Seychelles,EBM/14/50,2015,16,7,7,0.9922501,0,0,True,True
+Seychelles,EBM/14/50,2016,16,6,6,0.9957794,0,0,True,True
+Seychelles,EBM/14/50,2017,4,4,4,0.9969022,0,0,True,True
+Sierra Leone,EBM/13/97,2015,24,7,7,0.9972332,0,0,True,True
+Sierra Leone,EBM/13/97,2016,29,7,7,0.9968892,0,0,True,True
+Sierra Leone,PR/17/208,2017,24,8,8,0.9731317,0,0,True,True
+Sierra Leone,PR/18/446*,2018,14,6,6,0.98379415,0,0,True,True
+Sierra Leone,PR/18/446*,2019,18,7,7,0.9894298,0,0,True,True
+Solomon Islands,EBM/12/109,2015,17,7,7,0.99576443,0,0,True,True
+Sri Lanka,PR/16/262*,2016,23,6,6,0.99122256,0,0,True,True
+Sri Lanka,PR/16/262*,2017,15,7,7,0.995999,0,0,True,True
+Sri Lanka,PR/16/262*,2018,20,7,7,0.99478805,0,0,True,True
+Sri Lanka,PR/16/262*,2019,16,6,6,0.99694145,0,0,True,True
+Suriname,PR/16/251,2016,27,8,8,0.9970192,0,0,True,True
+Suriname,PR/16/251,2017,17,8,8,0.98239976,0,0,True,True
+Suriname,PR/16/251,2018,1,1,1,0.99763346,0,0,True,True
+Togo,PR/17/151,2017,20,5,5,0.993526,0,0,True,True
+Togo,PR/17/151,2018,27,6,6,0.97954935,0,0,True,True
+Togo,PR/17/151,2019,22,5,5,0.9924746,0,0,True,True
+Tunisia,EBM/13/54,2015,26,8,8,0.9781218,0,0,True,True
+Tunisia,PR/16/238*,2016,23,10,10,0.9768608,0,0,True,True
+Tunisia,PR/16/238*,2017,25,10,10,0.99777395,0,0,True,True
+Tunisia,PR/16/238*,2018,33,10,10,0.9931964,0,0,True,True
+Tunisia,PR/16/238*,2019,19,8,9,0.98342633,1,1,False,True
+Ukraine,EBM/15/24,2015,39,10,10,0.98570204,0,0,True,True
+Ukraine,EBM/15/24,2016,24,11,11,0.9975454,0,0,True,True
+Ukraine,EBM/15/24,2017,30,11,11,0.9914626,0,0,True,True
+Ukraine,PR/18/483*,2018,10,5,5,0.9965968,0,0,True,True
+Ukraine,PR/18/483*,2019,17,7,7,0.995764,0,0,True,True
+Yemen,EBM/14/82,2015,17,9,9,0.98634046,0,0,True,True

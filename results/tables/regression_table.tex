@@ -1,0 +1,70 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+entry=none,label=none,
+note{}={+ p \num{< 0.1}, * p \num{< 0.05}, ** p \num{< 0.01}, *** p \num{< 0.001}},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]Q[]Q[]},
+hline{2}={1-6}{solid, black, 0.05em},
+hline{48}={1-6}{solid, black, 0.05em},
+hline{1}={1-6}{solid, black, 0.08em},
+hline{54}={1-6}{solid, black, 0.08em},
+column{2-6}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& Base & Core controls & Full & Interactions & No arr. type \\
+(Intercept) & \num{4.372}*** & \num{1.189}*** & \num{1.209}*** & \num{1.222}*** & \num{1.268}*** \\
+& [\num{3.998}, \num{4.782}] & [\num{1.084}, \num{1.304}] & [\num{1.096}, \num{1.334}] & [\num{1.104}, \num{1.352}] & [\num{1.177}, \num{1.366}] \\
+year\_c & \num{1.040}*** & \num{1.010}*** & \num{1.010}*** & \num{1.011}*** & \num{1.010}*** \\
+& [\num{1.035}, \num{1.044}] & [\num{1.007}, \num{1.012}] & [\num{1.007}, \num{1.012}] & [\num{1.007}, \num{1.014}] & [\num{1.008}, \num{1.013}] \\
+post\_2002 & \num{0.792}*** & \num{0.909}*** & \num{0.913}*** & \num{0.911} & \num{0.883}*** \\
+& [\num{0.730}, \num{0.860}] & [\num{0.870}, \num{0.951}] & [\num{0.873}, \num{0.955}] & [\num{0.743}, \num{1.116}] & [\num{0.848}, \num{0.919}] \\
+post\_2009 & \num{0.717}*** & \num{0.994} & \num{0.996} & \num{1.131} & \num{0.970} \\
+& [\num{0.659}, \num{0.781}] & [\num{0.944}, \num{1.045}] & [\num{0.948}, \num{1.048}] & [\num{0.867}, \num{1.477}] & [\num{0.928}, \num{1.014}] \\
+arrangement\_typeEFF & \num{1.037} & \num{1.016} & \num{1.011} & \num{1.009} &  \\
+& [\num{0.945}, \num{1.139}] & [\num{0.943}, \num{1.095}] & [\num{0.939}, \num{1.090}] & [\num{0.937}, \num{1.088}] &  \\
+arrangement\_typeESAF & \num{1.250}*** & \num{1.124}*** & \num{1.128}*** & \num{1.114}** &  \\
+& [\num{1.143}, \num{1.366}] & [\num{1.054}, \num{1.199}] & [\num{1.058}, \num{1.203}] & [\num{1.043}, \num{1.190}] &  \\
+arrangement\_typePRGF & \num{1.072} & \num{1.055}+ & \num{1.055}+ & \num{1.037} &  \\
+& [\num{0.987}, \num{1.165}] & [\num{0.991}, \num{1.122}] & [\num{0.992}, \num{1.123}] & [\num{0.971}, \num{1.108}] &  \\
+arrangement\_typeSAF & \num{1.241}*** & \num{1.164}*** & \num{1.165}*** & \num{1.158}*** &  \\
+& [\num{1.095}, \num{1.406}] & [\num{1.069}, \num{1.268}] & [\num{1.070}, \num{1.270}] & [\num{1.062}, \num{1.264}] &  \\
+arrangement\_typeSBA & \num{0.967} & \num{1.013} & \num{1.010} & \num{1.001} &  \\
+& [\num{0.891}, \num{1.049}] & [\num{0.944}, \num{1.086}] & [\num{0.941}, \num{1.085}] & [\num{0.930}, \num{1.076}] &  \\
+arrangement\_typeSBA, CCFF & \num{0.898} & \num{1.010} & \num{1.007} & \num{1.003} &  \\
+& [\num{0.781}, \num{1.033}] & [\num{0.918}, \num{1.112}] & [\num{0.915}, \num{1.108}] & [\num{0.911}, \num{1.105}] &  \\
+arrangement\_typeSBA, SAF & \num{1.320}*** & \num{1.136}+ & \num{1.141}* & \num{1.135}* &  \\
+& [\num{1.150}, \num{1.516}] & [\num{0.997}, \num{1.294}] & [\num{1.008}, \num{1.291}] & [\num{1.002}, \num{1.286}] &  \\
+arrangement\_typeSBA, STF & \num{1.136} & \num{1.029} & \num{1.021} & \num{1.013} &  \\
+& [\num{0.955}, \num{1.351}] & [\num{0.928}, \num{1.141}] & [\num{0.916}, \num{1.137}] & [\num{0.909}, \num{1.130}] &  \\
+arrangement\_typeOther & \num{0.955} & \num{1.082}* & \num{1.083}* & \num{1.074}+ &  \\
+& [\num{0.838}, \num{1.088}] & [\num{1.004}, \num{1.165}] & [\num{1.005}, \num{1.167}] & [\num{0.996}, \num{1.158}] &  \\
+log\_n\_conditions &  & \num{1.721}*** & \num{1.720}*** & \num{1.717}*** & \num{1.743}*** \\
+&  & [\num{1.681}, \num{1.762}] & [\num{1.679}, \num{1.763}] & [\num{1.674}, \num{1.761}] & [\num{1.703}, \num{1.783}] \\
+log\_loan\_size &  & \num{0.991}+ & \num{0.992}+ & \num{0.992}+ & \num{0.987}** \\
+&  & [\num{0.982}, \num{1.000}] & [\num{0.982}, \num{1.001}] & [\num{0.982}, \num{1.001}] & [\num{0.978}, \num{0.995}] \\
+regionAPD &  & \num{0.928}* & \num{0.918}* & \num{0.918}* & \num{0.919}** \\
+&  & [\num{0.873}, \num{0.986}] & [\num{0.860}, \num{0.981}] & [\num{0.860}, \num{0.980}] & [\num{0.862}, \num{0.979}] \\
+regionEUR &  & \num{0.981} & \num{0.969} & \num{0.966} & \num{0.949} \\
+&  & [\num{0.929}, \num{1.037}] & [\num{0.906}, \num{1.036}] & [\num{0.902}, \num{1.034}] & [\num{0.890}, \num{1.012}] \\
+regionMCD &  & \num{1.006} & \num{0.994} & \num{0.994} & \num{0.988} \\
+&  & [\num{0.962}, \num{1.051}] & [\num{0.947}, \num{1.043}] & [\num{0.946}, \num{1.044}] & [\num{0.942}, \num{1.036}] \\
+regionWHD &  & \num{0.997} & \num{0.994} & \num{0.993} & \num{0.975} \\
+&  & [\num{0.956}, \num{1.040}] & [\num{0.953}, \num{1.037}] & [\num{0.952}, \num{1.035}] & [\num{0.933}, \num{1.019}] \\
+transition\_economy &  &  & \num{1.015} & \num{1.013} & \num{0.997} \\
+&  &  & [\num{0.958}, \num{1.075}] & [\num{0.953}, \num{1.076}] & [\num{0.942}, \num{1.056}] \\
+repeat\_borrower &  &  & \num{0.978} & \num{0.980} & \num{0.993} \\
+&  &  & [\num{0.942}, \num{1.015}] & [\num{0.944}, \num{1.017}] & [\num{0.958}, \num{1.029}] \\
+year\_c × post\_2002 &  &  &  & \num{1.000} &  \\
+&  &  &  & [\num{0.985}, \num{1.015}] &  \\
+year\_c × post\_2009 &  &  &  & \num{0.994} &  \\
+&  &  &  & [\num{0.978}, \num{1.011}] &  \\
+Num.Obs. & \num{2173} & \num{2173} & \num{2173} & \num{2173} & \num{2173} \\
+AIC & \num{9155.0} & \num{8104.0} & \num{8106.9} & \num{8110.0} & \num{8107.1} \\
+BIC & \num{9228.9} & \num{8212.0} & \num{8226.3} & \num{8240.7} & \num{8175.3} \\
+Log.Lik. & \num{-4564.488} & \num{-4033.002} & \num{-4032.456} & \num{-4032.000} & \num{-4041.566} \\
+RMSE & \num{1.95} & \num{1.15} & \num{1.15} & \num{1.15} & \num{1.17} \\
+Std.Errors & Custom & Custom & Custom & Custom & Custom \\
+\end{talltblr}
+\end{table}

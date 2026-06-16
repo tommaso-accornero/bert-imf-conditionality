@@ -1,0 +1,3 @@
+break_year,n_pre,n_post,lr_stat,df,p_value,significant
+2002,1293,880,14.584,13,0.334,FALSE
+2009,1663,510,7.883,12,0.7942,FALSE

@@ -1,0 +1,7 @@
+model,term,estimate,irr,se
+M3_handcoded (1980-2019),year_c,0.0096,1.01,0.0013
+M3_handcoded (1980-2019),post_2002,-0.091,0.913,0.0228
+M3_handcoded (1980-2019),post_2009,-0.0037,0.996,0.0256
+M3_full_sample (1980-2024),year_c,0.0132,1.013,0.0013
+M3_full_sample (1980-2024),post_2002,-0.1359,0.873,0.0207
+M3_full_sample (1980-2024),post_2009,-0.0722,0.93,0.0231
